@@ -1,4 +1,7 @@
-Machine - Tr0ll-1 /n
-Virtualization - VMare /n
-Network type - NAT /n
+Machine - Tr0ll-1 
+
+Virtualization - VMare 
+
+Network type - NAT 
+
 Tools - Nmap, wireshark, hydra.
